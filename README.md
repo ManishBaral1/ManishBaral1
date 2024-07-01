@@ -52,10 +52,15 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 
 ## C,C++,HTML,CSS,JS: OTHER ACADEMIC REPOSITORIES
 -**[Applied Dynamical Sytem](https://github.com/ManishBaral1/Applied-Dynamical-System)**:The Project in Python will cover real-world examples of nonlinear dynamics experiments such as nonlinear electric   oscillators and pattern formation in chemical reactions, as well as some paradigmatic models of nonlinear dynamics.
+
 -**[Stochastic Methods and Financial Maths](https://github.com/ManishBaral1/Stochastic-Methods-and-Financial-Math)**:Topics include binomial tree models, discrete Brownian paths, stochastic ODEs, Monte-Carlo methods, finite differences solutions for the Black-Scholes equation, and an introduction to time series analysis, parameter estimation, and calibration. We program and explore all basic techniques in a numerical programming environment and apply these algorithms to real data whenever possible
+
 -**[C-Programming ](https://github.com/ManishBaral1/C-Programming-1)**: Resources and assignments of C-programming course from University.
+
 -**[Library Management System Python](https://github.com/ManishBaral1/LIBRARY-MANAGEMENT-SYSTEM-PYTHON-)**: Project on Library Management system using python.
+
 -**[HTML CSS Javascript](https://github.com/ManishBaral1/HTML-CSS-JAVASCRIPT)**: Learning HTML, CSS and Javascript.
+
 -**[]()**:
 -**[]()**:
 -**[]()**:
