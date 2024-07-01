@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Manish Baral
 
-Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Math major with a strong background in Physics and Computer Science) currently based in Berlin, Germany. I'm passionate about machine learning, data analysis, and creating impactful visualizations.
+Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Math major with a strong background in Computer Science and Physics) currently based in Berlin, Germany. I'm passionate about machine learning, data analysis, and creating impactful visualizations.
 
 ## About Me
 
