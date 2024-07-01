@@ -59,9 +59,10 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 - **[HTML CSS Javascript](https://github.com/ManishBaral1/HTML-CSS-JAVASCRIPT)**: Learning HTML, CSS and Javascript.
 
 
-- # COMPETITION PROJECTS
+- # COMPETITION PROJECTS AND CERTIFICATES
 - **[NASA SPACE APP CHALLENGE](https://github.com/ManishBaral1/NASA-SPACE-APP-CHALLENGE)**: Participated in competition about building an App to solve real world problem organized by NASA Ames.
 - **[Virtual Impact Week Challenge by Lufthansa](https://github.com/ManishBaral1/Virtual-Impact-Week-Challenge-by-Lufthansa)**: Participed in Design Thinking competition organized by Lufthansa.
+- 
 
   
 
