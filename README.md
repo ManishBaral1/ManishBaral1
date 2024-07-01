@@ -44,6 +44,10 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 ### Statistics
 - **[STATISTICS-FOR-DATA-SCIENCE](https://github.com/ManishBaral1/STATISTICS-FOR-DATA-SCIENCE)**: Resources and projects on statistics for data science.
 
+### Mathematics Project and Thesis (TeX)
+- **[Mathematics Thesis](https://github.com/ManishBaral1/Thesis-Mathematics)**:Thesis: On the Volume of the Intersection of Balls (Discrete Geometry)
+- **[Mathematics Project](https://github.com/ManishBaral1/Project-Mathematics)**:Project: On the Heat equations, maximum principle and weak solution with their regularities (PDEs)
+
 ## 📊 GitHub Stats
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBaral1&show_icons=true&theme=radical)
