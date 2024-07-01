@@ -75,4 +75,6 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBaral1&show_icons=true&theme=radical)
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBaral1&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Manish's GitHub Year Stats](https://github-readme-stats.vercel.app/api?username=ManishBaral1&show_icons=true&theme=radical&custom_title=Manish's%20GitHub%20Year%20Stats&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&line_height=24&hide_rank=true&layout=compact&card_width=300&years=9)
+
 
