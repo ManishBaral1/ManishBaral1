@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 
 ## About Me
 
-- 🎓 Studied at Freie Universität Berlin
+- 🎓 Studied at Constructor(Jacobs) University Bremen[undergrad] and Freie Universität Berlin[grad]
 - 🏙️ Living in Berlin, Germany
 - 🏆 Arctic Code Vault Contributor
 - 📞 Phone: (+49) 15214440352
