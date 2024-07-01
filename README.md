@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
 
 # 🔍 Projects
-
+## DATA ANALYST PORTFOLIO PROJECTS (PYTHON,SQL,TABLEAU)
 ### Machine Learning & Data Analysis
 - **[MACHINE-LEARNING-DEEP-LEARNING-ASSIGNMENTS](https://github.com/ManishBaral1/MACHINE-LEARNING-DEEP-LEARNING-ASSIGNMENTS-)**: A collection of assignments and projects on machine learning and deep learning.
 - **[PYTHON-AIRBNB-2023-EXPLORATORY-DATA-ANALYSIS-EDA](https://github.com/ManishBaral1/PYTHON-AIRBNB-2023-EXPLORATORY-DATA-ANALYSIS-EDA-)**: Exploratory data analysis on Airbnb listings.
@@ -44,9 +44,22 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 ### Statistics
 - **[STATISTICS-FOR-DATA-SCIENCE](https://github.com/ManishBaral1/STATISTICS-FOR-DATA-SCIENCE)**: Resources and projects on statistics for data science.
 
-### Mathematics Project and Thesis (TeX)
+## Mathematics Project and Thesis (TeX)
 - **[Mathematics Thesis](https://github.com/ManishBaral1/Thesis-Mathematics)**:Thesis: On the Volume of the Intersection of Balls (Discrete Geometry)
 - **[Mathematics Project](https://github.com/ManishBaral1/Project-Mathematics)**:Project: On the Heat equations, maximum principle and weak solution with their regularities (PDEs)
+
+## Other Course Relevant Repositories
+-**[Applied Dynamical Sytem](https://github.com/ManishBaral1/Applied-Dynamical-System)**:
+-**[Stochastic Methods and Financial Maths](https://github.com/ManishBaral1/Stochastic-Methods-and-Financial-Math)**:
+-**[C-Programming ](https://github.com/ManishBaral1/C-Programming-1)**:
+-**[Library Management System Python](https://github.com/ManishBaral1/LIBRARY-MANAGEMENT-SYSTEM-PYTHON-)**:
+-**[HTML CSS Javascript](https://github.com/ManishBaral1/HTML-CSS-JAVASCRIPT)**:
+-**[]()**:
+-**[]()**:
+-**[]()**:
+-**[]()**:
+-**[]()**:
+
 
 ## 📊 GitHub Stats
 
