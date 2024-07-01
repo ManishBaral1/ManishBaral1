@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 - 🌐 LinkedIn: [linkedin.com/in/ManishBaral](https://www.linkedin.com/in/manish-baral-402324134/)
 - 🔭 I’m currently working on: Building Nodejs+Reactjs Project
 - 🌱 I’m currently learning:Cloud(AWS,EC2,S3,Sagemaker, AWS,RDS, Athena), CI/CD pipelines Docker, Kubernetes, Jenkins, ETL pipeline
-- 👯 I’m looking to collaborate on: Any interesting project
 - 🤔 I’m looking for help with: LLM
 - 💬 Ask me about: Abstract Mathematics, Automata Theory, Physics
 - 😄 Pronouns: he/him
