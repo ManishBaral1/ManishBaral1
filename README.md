@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
 
 # 🔍 DATA ANALYST PORTFOLIO PROJECTS 
-**Here are Some of my important repositories dedicated to DATA ANALYST portfolio projects and relevent academic materials**
+**NOTE: Here are Some of my important repositories dedicated to DATA ANALYST portfolio projects and relevent academic materials**
 
 
 
@@ -59,12 +59,12 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 - **[HTML CSS Javascript](https://github.com/ManishBaral1/HTML-CSS-JAVASCRIPT)**: Learning HTML, CSS and Javascript.
 
 
-- # COMPETITION PROJECTS AND CERTIFICATES
+# COMPETITION PROJECTS AND CERTIFICATES
 - **[NASA SPACE APP CHALLENGE](https://github.com/ManishBaral1/NASA-SPACE-APP-CHALLENGE)**: Participated in competition about building an App to solve real world problem organized by NASA Ames.
 - **[Virtual Impact Week Challenge by Lufthansa](https://github.com/ManishBaral1/Virtual-Impact-Week-Challenge-by-Lufthansa)**: Participed in Design Thinking competition organized by Lufthansa.
 
 # FORKED REPOSITORIES FOR LEARNING PURPOSE
-**NOTE: I HAVE FORKED SOME REPOSITORIES FOR LEARNING PURPOSE. I AM MENTIONED "FORKED" IN THE TITLE OF THOSE REPOSITORIES**
+**NOTE: I have forked some repositories for Learning Purpose(which arenot mentioned above and can be found if  you surf through my repositories ). I have mentioned  "FORKED" in the title of those repositories**
 
   
 
