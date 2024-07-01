@@ -15,20 +15,21 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 - 🌱 I’m currently learning:Cloud(AWS,EC2,S3,Sagemaker, AWS,RDS, Athena), CI/CD pipelines Docker, Kubernetes, Jenkins, ETL pipeline
 - 👯 I’m looking to collaborate on: Any interesting project
 - 🤔 I’m looking for help with: LLM
-- 💬 Ask me about: Abstract Mathematics, Automata Theory
+- 💬 Ask me about: Abstract Mathematics, Automata Theory, Physics
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: !FALSE (It's funny because it is true)
 
-## Here are Some of my important repositories dedicated to DATA ANALYST portfolio projects and relevent academic materials:
 
-
-- **Languages:** Python, SQL
-- **Data Analysis:** Jupyter Notebook, Pandas, NumPy
+## Skills
+- **Languages:** Python, SQL (C,C++,HTML,CSS,JS)
+- **Data Analysis:** Jupyter Notebook, Pandas, NumPy, Scipy
 - **Visualization:** Tableau, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
 
-# 🔍 Projects
-## DATA ANALYST PORTFOLIO PROJECTS 
+# 🔍 DATA ANALYST PORTFOLIO PROJECTS 
+**Here are Some of my important repositories dedicated to DATA ANALYST portfolio projects and relevent academic materials**
+
+
 
 ### PYTHON+SQL: Machine Learning & Data Analysis
 - **[PYTHON AIRBNB 2023 EXPLORATORY DATA ANALYSIS EDA](https://github.com/ManishBaral1/PYTHON-AIRBNB-2023-EXPLORATORY-DATA-ANALYSIS-EDA-)**: Exploratory data analysis on **NYC 2023 Airbnb listings**.
@@ -46,12 +47,12 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 - **[NATURAL LANGUAGE PROCESSING](https://github.com/ManishBaral1/NATURAL-LANGUAGE-PROCESSING)** Resources and projects on **NLP**.
 
 
-## MATHEMATICS THESIS AND PROJECT (TeX)
+# MATHEMATICS THESIS AND PROJECT (TeX)
 - **[Mathematics Thesis](https://github.com/ManishBaral1/Thesis-Mathematics)**:Thesis: On the Volume of the Intersection of Balls (**Discrete Geometry**)
 - **[Mathematics Project](https://github.com/ManishBaral1/Project-Mathematics)**:Project: On the Heat equations, maximum principle and weak solution with their regularities (**PDEs**)
 
 
-## C,C++,HTML,CSS,JS: OTHER ACADEMIC REPOSITORIES
+# C,C++,HTML,CSS,JS: OTHER ACADEMIC REPOSITORIES
 - **[Applied Dynamical Sytem](https://github.com/ManishBaral1/Applied-Dynamical-System)**:The Project in Python will cover real-world examples of nonlinear dynamics experiments such as nonlinear electric   oscillators and pattern formation in chemical reactions, as well as some paradigmatic models of nonlinear dynamics.
 - **[Stochastic Methods and Financial Maths](https://github.com/ManishBaral1/Stochastic-Methods-and-Financial-Math)**:Topics include binomial tree models, discrete Brownian paths, stochastic ODEs, Monte-Carlo methods, finite differences solutions for the Black-Scholes equation, and an introduction to time series analysis, parameter estimation, and calibration. We program and explore all basic techniques in a numerical programming environment and apply these algorithms to real data whenever possible
 - **[C-Programming ](https://github.com/ManishBaral1/C-Programming-1)**: Resources and assignments of C-programming course from University.
@@ -59,9 +60,9 @@ Welcome to my GitHub profile! I'm a data analyst and  developer (well-rounded Ma
 - **[HTML CSS Javascript](https://github.com/ManishBaral1/HTML-CSS-JAVASCRIPT)**: Learning HTML, CSS and Javascript.
 
 
-- ## COMPETITION PROJECTS
-- **[NASA SPACE APP CHALLENGE]()**:
-- **[Virtual Impact Week Challenge by Lufthansa]()**:
+- # COMPETITION PROJECTS
+- **[NASA SPACE APP CHALLENGE](https://github.com/ManishBaral1/NASA-SPACE-APP-CHALLENGE)**: Participated in competition about building an App to solve real world problem organized by NASA Ames.
+- **[Virtual Impact Week Challenge by Lufthansa](https://github.com/ManishBaral1/Virtual-Impact-Week-Challenge-by-Lufthansa)**: Participed in Design Thinking competition organized by Lufthansa.
 
   
 
